@@ -8,7 +8,8 @@
 <html lang="pt-br">
 	<head>
 		<meta charset="UTF-8">
-		<title> Barbearia Alura </title>
+		
+<title> Barbearia Alura </title>
 		<link rel="stylesheet" href="style.css">
 	</head>
 
@@ -16,7 +17,7 @@
 		<header>
 			<h1 class="titulo-principal">Barbearia Alura</h1>
 		</header>
-		<img id="banner" src="C:\Users\Ana\OneDrive\Imagens\barbearia .png">
+		<img id="barbearia" src="barbearia.png">
 		<div class="principal">
 			<h2 class="titulo-centralizado">Sobre a Barbearia Alura</h2>
 	 
