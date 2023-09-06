@@ -17,7 +17,8 @@
 		<header>
 			<h1 class="titulo-principal">Barbearia anaguria.coding</h1>
 		</header>
-		<img id="barbearia" src="![image](https://github.com/anaguriaa/site/assets/105393642/844653a9-04ad-4304-83b1-e0ca14c5cb66)">
+		<img width"![barbearia](https://github.com/anaguriaa/site/assets/105393642/f1eff353-adc9-441d-bc9c-e1db0417ab4c)
+" src="![barbearia](https://github.com/anaguriaa/site/assets/105393642/52a75466-13da-40f0-b8e4-fcd42333d996)">
 		<div class="principal">
 			<h2 class="titulo-centralizado">Sobre a Barbearia Alura</h2>
 	 
