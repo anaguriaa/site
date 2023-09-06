@@ -1,6 +1,6 @@
 
 
-# site
+# Site
 
 
 
@@ -9,15 +9,15 @@
 	<head>
 		<meta charset="UTF-8">
 		
-<title> Barbearia Alura </title>
-		<link rel="stylesheet" href="style.css">
+
+<link rel="stylesheet" href="style.css">
 	</head>
 
 <body>
 		<header>
-			<h1 class="titulo-principal">Barbearia Alura</h1>
+			<h1 class="titulo-principal">Barbearia anaguria.coding</h1>
 		</header>
-		<img id="barbearia" src="barbearia.png">
+		<img id="barbearia" src="![image](https://github.com/anaguriaa/site/assets/105393642/844653a9-04ad-4304-83b1-e0ca14c5cb66)">
 		<div class="principal">
 			<h2 class="titulo-centralizado">Sobre a Barbearia Alura</h2>
 	 
