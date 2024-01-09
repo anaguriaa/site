@@ -1,6 +1,6 @@
 
 
-# Site
+
 
 
 
@@ -15,13 +15,13 @@
 
 <body>
 		<header>
-			<h1 class="titulo-principal">Barbearia anaguria.coding</h1>
+			<h1 class="titulo-principal">loja de Roupas Anaguria</h1>
 		</header>
 		<img src="https://github.com/anaguriaa/site/issues/1#issue-1883787734">
 		<div class="principal">
-			<h2 class="titulo-centralizado">Sobre a Barbearia </h2>
+			<h2 class="titulo-centralizado">Sobre a Loja de Roupas </h2>
 	 
-<p>Localizada no coração da cidade a <strong>Barbearia Alura</strong> traz para o mercado o que há de melhor para o seu cabelo e barba. Fundada em 2019, a Barbearia  já é destaque na cidade e conquista novos clientes a cada dia.</p>
+<p>Localizada no coração da cidade a <strong>loja de Roupas Anaguria</strong> traz para o mercado o que há de melhor para o sua vida em forma de roupas. Fundada em 2019, a loja de Roupas Anaguria  já é destaque na cidade e conquista novos clientes a cada dia.</p>
 
 <p id="missao"><em>Nossa missão é: <strong>"Proporcionar auto-estima e qualidade de vida aos clientes"</strong>.</em></p>
 
